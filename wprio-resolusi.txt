@@ -1,3 +1,4 @@
 WPRIO RESOLUSI
 - Konsisten untuk membuat konten 2x seminggu
 - Membuat platform untuk pengolaan program web sederhana
+- Menerbitkan sebuah program web sederhana
